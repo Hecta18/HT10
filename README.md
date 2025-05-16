@@ -1,5 +1,6 @@
 # HT10
 Uso de grafos y algoritmo de Floyd para ruta más corta.
+Visita nuestra [wiki](../../wiki) para aprender sobre nuestro proceso de desarrollo y el software.
 
 ### Resumen de Instrucciones para la Hoja de Trabajo No. 10
 **Objetivo General:** Implementar un programa en Java que utilice el algoritmo de Floyd para encontrar el camino más corto entre pares de vértices en un grafo, y calcular el centro del grafo.
