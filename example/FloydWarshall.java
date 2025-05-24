@@ -1,4 +1,4 @@
-package Ejemplo_Floyd;
+package example;
 public class FloydWarshall {
     private final int INF = Integer.MAX_VALUE; // Representa la "infinidad"
     private int[][] dist; // Matriz de distancias
